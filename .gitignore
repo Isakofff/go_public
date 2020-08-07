@@ -1,2 +1,23 @@
+# Individual files
+.DS_Store
+Readme_private.md
+
+# File mask
+*.bak
+*.cache
+*.db
+*.gz
+*.iml
+*.log
+*.project
+*.retry
+*.tmp
+*.zip
+
+# Folders
 .idea/
 .git/
+inventory/
+group_vars/
+log/
+tmp/
